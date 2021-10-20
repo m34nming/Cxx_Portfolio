@@ -298,15 +298,14 @@ footer {
     margin: 10px;
     flex: auto; 
     height: 150px;
-    width: 500px;
+    width: 900px;
     border-radius: 10px;
     line-height: 10em;
     text-align: center;
 }
 
 
-#blog {
-           
+#blog { 
             max-width: 1100px;
             margin: auto;
             height: 600px;
@@ -320,12 +319,10 @@ footer {
         
         .blog-container {
             display: flex;
-            /* justify-content: space-between; */
         }
         
         .blog-container-2 {
             display: flex;
-            /* justify-content: space-between; */
         }
         
         .blog {
@@ -334,7 +331,7 @@ footer {
             margin: 10px;
             flex: auto; 
             height: 150px;
-            width: 500px;
+            width: 900px;
             border-radius: 10px;
             line-height: 10em;
             text-align: center;
