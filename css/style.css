@@ -200,7 +200,7 @@ nav {
 
 }
 
-/* btn my story */
+/* btn know more */
 #section-1 .s1-content a:hover {
     background: #85603F
     color: #fff;
@@ -307,7 +307,7 @@ footer {
 
 #blog {
             /* display: flex; */
-            max-width: 900px;
+            max-width: 1000px;
             margin: auto;
             height: 600px;
         }
