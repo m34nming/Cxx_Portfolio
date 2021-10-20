@@ -366,8 +366,7 @@ footer {
         
         .blog{
             position: relative;
-            border-color: #brown;
-            border-style: solid;
+            border-style: dotted;
         }
         ) center;
 }
