@@ -306,7 +306,7 @@ footer {
 
 
 #blog {
-            /* display: flex; */
+           
             max-width: 1000px;
             margin: auto;
             height: 600px;
@@ -366,7 +366,7 @@ footer {
         
         .blog{
             position: relative;
-            border-style: dotted;
+            border-style: solid;
         }
         ) center;
 }
